@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/santander
+    username: postgres
+    password: 3472
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
