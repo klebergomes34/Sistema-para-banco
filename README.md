@@ -1,4 +1,4 @@
-# APP para Banco
+# Sistema para Banco
 
 Java RESTful API
 
